@@ -4,6 +4,10 @@ import java.util.Scanner;
 
 /**
  * 2022/7/30 ~ 2022/8/2 1.0 END
+ * bilibili: 代码永远不写注释
+ * Github: small-yupi
+ * CSDN: new_command
+ * 邮箱: zsj20143688@163.com
  * @author 86151
  */
 public class TemplateUse extends Template {
