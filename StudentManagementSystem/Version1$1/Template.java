@@ -20,6 +20,10 @@ import java.util.Calendar;
  * <p>
  * 4. 及时停止循环, 增加性能。
  * 4. Stop the loop in time to increase performance.
+ * bilibili: 代码永远不写注释
+ * Github: small-yupi
+ * CSDN: new_command
+ * 邮箱: zsj20143688@163.com
  * @author 86151
  */
 public class Template {
