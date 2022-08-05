@@ -15,6 +15,10 @@ import java.util.Scanner;
  * <p>
  * 3. 增加删除确认, 防止误删。
  * 3. Add deletion confirmation to prevent deletion by mistake.
+ * bilibili: 代码永远不写注释
+ * Github: small-yupi
+ * CSDN: new_command
+ * 邮箱: zsj20143688@163.com
  * @author 86151
  */
 public class TemplateUse {
