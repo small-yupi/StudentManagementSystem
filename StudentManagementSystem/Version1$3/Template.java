@@ -15,6 +15,11 @@ import java.util.Scanner;
  * <p>
  * 2. 更改了错误的英文, 防止误解。
  * 2. The wrong English has been changed to prevent misunderstandings.
+ * <p>
+ * bilibili: 代码永远不写注释
+ * Github: small-yupi
+ * CSDN: new_command
+ * 邮箱: zsj20143688@163.com
  * @author 86151
  */
 public class Template {
